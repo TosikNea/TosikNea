@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @TosikNea
-- 📫 How to reach me : Discord : Tosik#0001
+- 📫 How to reach me : Discord : tosik
