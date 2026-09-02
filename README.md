@@ -78,10 +78,16 @@ Independent Verification
 Memory / Learning
 ```
 
-📡 Contact
+---
 
-Discord: tosik
+## 📡 Contact
+
+**Discord:** `tosik`
+
+---
 
 <div align="center">
-⚡ Building the interface between humans and intelligent machines.
+
+### ⚡ Building the interface between humans and intelligent machines.
+
 </div>
