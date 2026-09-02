@@ -76,7 +76,7 @@ Execution
 Independent Verification
   ↓
 Memory / Learning
-
+```
 
 📡 Contact
 
@@ -84,4 +84,4 @@ Discord: tosik
 
 <div align="center">
 ⚡ Building the interface between humans and intelligent machines.
-</div> ```
+</div>
