@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Tosik
+# 🌌 Hey, I'm Tosik
 
 ### AI Systems • Automation • Agentic Intelligence
 
-*Building systems that can understand, reason, act, verify, and improve.*
+**Building Galaxy AI — a personal AI system designed to understand, reason, act, verify, and improve.**
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm currently focused on building intelligent systems that go beyond simple chat interfaces.
+I'm focused on building intelligent systems that go beyond simple chat interfaces and move toward reliable real-world assistance.
 
 My main interests are:
 
@@ -20,26 +20,44 @@ My main interests are:
 - 🧠 LLM orchestration and model routing
 - 🖥️ Local AI / GPU inference
 - ⚙️ Automation & computer control
-- 🔐 Safe execution and verification
+- 🔐 Safe execution and independent verification
 - 🎙️ Natural voice interaction
 - 🧩 Multi-user AI architectures
+- 💾 Memory, continuity & long-running agent workflows
 
 ---
 
-## 🚀 Current Focus
+## 🌌 Galaxy AI
 
-### Galaxy Initiative
+**Galaxy AI** is my ongoing personal AI engineering project exploring how far a general-purpose personal AI system can be pushed with today's technology.
 
-An ongoing personal AI engineering project exploring how far a real-world
-JARVIS-style assistant can be pushed with today's technology.
+The architecture I'm working toward follows a simple principle:
 
-Currently working on:
+> **AI should not only answer — it should understand what is happening, decide what to do, act through controlled capabilities, verify the result, and learn from the outcome.**
 
-`Cognition` → `Planning` → `Capabilities` → `Execution` → `Observation` → `Verification` → `Memory`
+```text
+Human / Environment
+        ↓
+      Intent
+        ↓
+     Cognition
+        ↓
+     Planning
+        ↓
+Capability Selection
+        ↓
+     Execution
+        ↓
+    Observation
+        ↓
+Independent Verification
+        ↓
+ Memory / Learning / Replanning
+```
 
-With a strong focus on:
+Current engineering focus:
 
-**security • reliability • privacy • deterministic testing • local AI**
+**security • reliability • privacy • deterministic testing • local AI • model routing • verification • continuity**
 
 ---
 
@@ -58,25 +76,18 @@ With a strong focus on:
 
 ---
 
-## 🧪 What I'm Exploring
+## 🧪 Engineering Philosophy
 
 ```text
-Human
-  ↓
-Intent
-  ↓
-AI Cognition
-  ↓
-Planning
-  ↓
-Capability Selection
-  ↓
-Execution
-  ↓
-Independent Verification
-  ↓
-Memory / Learning
+Model output ≠ truth
+Model claim  ≠ verification
+Permission   ≠ capability
+Action       ≠ success
+
+Observe → Verify → Update → Replan
 ```
+
+I care less about making AI *look* intelligent and more about making intelligent systems **measurable, dependable, and safe to trust with real tasks**.
 
 ---
 
@@ -89,5 +100,7 @@ Memory / Learning
 <div align="center">
 
 ### ⚡ Building the interface between humans and intelligent machines.
+
+`GALAXY AI // BUILD • TEST • VERIFY`
 
 </div>
